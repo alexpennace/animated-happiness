@@ -8,5 +8,6 @@ meaningful name)
 
 Thanks
 ------
-* OpenHack Buffalo
-  (http://nextplex.com/buffalo-ny/calendar/events/7413-openhack-june-2-0)
+* [Cowork Buffalo](http://coworkbuffalo.com) for hosting an
+  [OpenHack Buffalo](http://openhack.github.io/buffalo/) on
+  [June 18, 2013](http://nextplex.com/buffalo-ny/calendar/events/7413)
